@@ -65,9 +65,9 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Get In Touch</h4>
             <div className="space-y-2 text-gray-300">
-              <p>📍 Thane, Maharashtra</p>
+              <p>📍 Mumbai, Maharashtra</p>
               <p>📧 Suhani29@somaiya.edu</p>
-              <p>📱 +91 9326379388</p>
+              
               <p className="text-primary-400 font-medium">Available for opportunities!</p>
             </div>
           </div>
