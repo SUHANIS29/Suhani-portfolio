@@ -30,12 +30,7 @@ const Contact = () => {
       value: 'Suhani29@somaiya.edu',
       link: 'mailto:Suhani29@somaiya.edu'
     },
-    {
-      icon: '📱',
-      label: 'Phone',
-      value: '+91 9326379388',
-      link: 'tel:+919326379388'
-    },
+  
     {
       icon: '📍',
       label: 'Location',
